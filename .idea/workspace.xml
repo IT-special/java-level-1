@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a7dc5028-047c-47c8-9ff4-f471a3b0e632" name="Changes" comment="Java-Tutoruials">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter_5_Loops/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter_5_Loops/Task2.java" afterDir="false" />
+    <list default="true" id="a7dc5028-047c-47c8-9ff4-f471a3b0e632" name="Changes" comment="gitToolbox">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter_5_Loops/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter_5_Loops/Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter_5_Loops/Task5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -95,7 +96,7 @@
       <workItem from="1660032563475" duration="27000" />
       <workItem from="1660034301338" duration="1265000" />
       <workItem from="1660918334280" duration="655000" />
-      <workItem from="1661841855258" duration="3120000" />
+      <workItem from="1661841855258" duration="5786000" />
     </task>
     <task id="LOCAL-00001" summary="Java-Tutoruials">
       <created>1661842666098</created>
@@ -104,7 +105,21 @@
       <option name="project" value="LOCAL" />
       <updated>1661842666098</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="For and While Practice Work">
+      <created>1661844997141</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1661844997141</updated>
+    </task>
+    <task id="LOCAL-00003" summary="gitToolbox">
+      <created>1661845041721</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1661845041721</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,6 +138,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Java-Tutoruials" />
-    <option name="LAST_COMMIT_MESSAGE" value="Java-Tutoruials" />
+    <MESSAGE value="For and While Practice Work" />
+    <MESSAGE value="gitToolbox" />
+    <option name="LAST_COMMIT_MESSAGE" value="gitToolbox" />
   </component>
 </project>
