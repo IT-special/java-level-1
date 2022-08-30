@@ -4,32 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a7dc5028-047c-47c8-9ff4-f471a3b0e632" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter_1_Intro/HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter_2_Variables/Boolean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter_2_Variables/Manipulation_with_variables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter_2_Variables/Test_variables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter_3_If_else/If_else.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter_3_If_else/Switch_case.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter_3_If_else/Swith_case_enhanced_version.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter_3_Tasks/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter_3_Tasks/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter_3_Tasks/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter_3_Tasks/Task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter_4_Functions/HomeWork.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter_4_Functions/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter_4_Functions/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter_4_Functions/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter_4_Functions/Task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter_5_Loops/For.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter_5_Loops/While.java" afterDir="false" />
+    <list default="true" id="a7dc5028-047c-47c8-9ff4-f471a3b0e632" name="Changes" comment="Java-Tutoruials">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter_5_Loops/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Chapter_5_Loops/Task2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +23,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -114,8 +95,16 @@
       <workItem from="1660032563475" duration="27000" />
       <workItem from="1660034301338" duration="1265000" />
       <workItem from="1660918334280" duration="655000" />
-      <workItem from="1661841855258" duration="725000" />
+      <workItem from="1661841855258" duration="3120000" />
     </task>
+    <task id="LOCAL-00001" summary="Java-Tutoruials">
+      <created>1661842666098</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1661842666098</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -131,5 +120,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Java-Tutoruials" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java-Tutoruials" />
   </component>
 </project>
